@@ -1,0 +1,11 @@
+button {
+    background: none;
+    border: none;
+}
+button:hover {
+    cursor: pointer;
+}
+.Grafika {
+    height: 400px;
+    margin-top: 10px;
+}
